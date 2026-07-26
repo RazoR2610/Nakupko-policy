@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#16a34a"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#g)"/>
+  <!-- nákupní košík -->
+  <path d="M17 20h4l3.4 18.2a3 3 0 0 0 3 2.5h13.9a3 3 0 0 0 2.9-2.3L50 25H24"
+        fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="28" cy="48" r="3.1" fill="#fff"/>
+  <circle cx="44" cy="48" r="3.1" fill="#fff"/>
+  <!-- fajka -->
+  <path d="M30 31.5l3.2 3.2 6.3-6.3" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
