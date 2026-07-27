@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Nahraď REPLACE-WITH-YOUR-DOMAIN svou adresou, např. nakupko.app nebo tvojgithub.github.io/nakupko -->
-<urlset xmlns="https://razor2610.github.io/Nakupko-policy/">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://REPLACE-WITH-YOUR-DOMAIN/</loc>
     <lastmod>2026-07-26</lastmod>
