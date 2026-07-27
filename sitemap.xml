@@ -2,22 +2,22 @@
 <!-- Nahraď REPLACE-WITH-YOUR-DOMAIN svou adresou, např. nakupko.app nebo tvojgithub.github.io/nakupko -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://REPLACE-WITH-YOUR-DOMAIN/</loc>
+    <loc>https://razor2610.github.io/Nakupko-policy/</loc>
     <lastmod>2026-07-26</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://REPLACE-WITH-YOUR-DOMAIN/privacy.html</loc>
+    <loc>https://razor2610.github.io/Nakupko-policy/privacy.html</loc>
     <lastmod>2026-07-26</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://REPLACE-WITH-YOUR-DOMAIN/terms.html</loc>
+    <loc>https://razor2610.github.io/Nakupko-policy/terms.html</loc>
     <lastmod>2026-07-26</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://REPLACE-WITH-YOUR-DOMAIN/support.html</loc>
+    <loc>https://razor2610.github.io/Nakupko-policy/support.html</loc>
     <lastmod>2026-07-26</lastmod>
     <priority>0.7</priority>
   </url>
